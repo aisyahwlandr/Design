@@ -1,2 +1,2 @@
 # Design
-Kumpulan eksperimen desain untuk tampilan web
+Kumpulan desain untuk tampilan web
